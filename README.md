@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/tanxena" target="blank">Tanish</a></h1>
+<h3 align="center">A Machine Learning Enthusiast from Delhi, India</h3>
 
-<!--
-**tanxena/tanxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.linkedin.com/in/tanxena/" target="blank"> My Linkedin </a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I'm a third-year student at Netaji Subhas University of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 I’m currently diving into Machine Learning, Python, and Data Science Algorithms.
+
+- 🤝 I’m available for freelancing and internship opportunities.
+
+- 💬 Ask me about **Python, Python Libraries, LLMs, Computer Vision, and other AI/ML technologies.**
+
+- 📝 How to reach me <a href="mailto:tanxena26@gmail.com">**tanxena26@gmail.com**</a>
+
+- ⚡ I enjoy building intelligent systems and tackling real-world challenges with data! 🚀
+
+<br/>
