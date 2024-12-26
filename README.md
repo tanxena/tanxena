@@ -16,3 +16,13 @@
 - ⚡ I enjoy building intelligent systems and tackling real-world challenges with data! 🚀
 
 <br/>
+
+<h3> Achievements </h3>
+
+  - Smart India Hackathon Winner 2023
+
+  - Smart India Hackathon Grand Finalist 2024
+    
+  - Runner Up @ InnovateX DTU
+    
+  - Fourth Place @ FinAThon IIT Delhi
