@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/tanxena/" target="blank"> My Linkedin </a> </p>
 
-- 🔭 I'm a third-year student at Netaji Subhas University of Technology.
+- 🔭 I'm a fourth-year student at Netaji Subhas University of Technology.
 
 - 🌟 I’m currently diving into Machine Learning, Python, and Data Science Algorithms.
 
