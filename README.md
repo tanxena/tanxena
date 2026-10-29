@@ -1,6 +1,6 @@
 ### hi, i'm tanish
 
-i'm a software developer at Xpurto, a construction-tech startup based in the US. i build products end to end there, from backend and web app to deployment, and i'm also the only one working on ML. evenings go into Go projects about correctness: what happens when a process dies halfway through a write, or when a stream has to pass through a proxy without being buffered. i graduated from NSUT in 2026 and live in Delhi.
+i'm a software developer at Xpurto, an AI construction-tech startup based in the US. i build products end to end there, from backend and web app to deployment, and i'm also the sole ML engineer. i also dive into Go projects about correctness: what happens when a process dies halfway through a write, or when a stream has to pass through a proxy without being buffered. i graduated from Netaji Subhas University of Technology (NSUT, erstwhile NSIT) in 2026 and live in Delhi.
 
 #### what i do at Xpurto
 
