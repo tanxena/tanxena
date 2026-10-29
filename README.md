@@ -22,10 +22,6 @@ i built the multi-tenant web app they run in (Next.js, FastAPI, MongoDB, Redis, 
 
 earlier, my team won Smart India Hackathon 2023 with a [forensic logging system](https://github.com/tanxena/IT-System-Log-Analyser) for CRPF that chains log batches together on IPFS so tampering shows.
 
-#### on building with AI
-
-most of my code gets written by Claude Code now, so the job is making sure it's right. i write the spec first. after the code is done, a fresh session that didn't write it reviews it against that spec, and i settle any disagreements. benchmarks i run myself. a few things only got caught that way, like benchmark processes pinned to two cores while the Go runtime still assumed eight. the specs and review notes are committed in each repo.
-
 #### tools
 
 Go, Python, TypeScript, C++, PyTorch, YOLO, TensorRT, OpenCV, FastAPI, Next.js, MongoDB, Postgres, Redis, Kubernetes, ArgoCD, Docker, Prometheus
