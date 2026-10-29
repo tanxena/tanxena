@@ -1,5 +1,7 @@
 ### hi, i'm tanish
 
+[email](mailto:tanxena26@gmail.com) / [resume](https://tanxena.in/resume) / [linkedin](https://www.linkedin.com/in/tanxena) / [github](https://github.com/tanxena)
+
 i'm a software developer at Xpurto, an AI construction-tech startup based in the US. i build products end to end there, from backend and web app to deployment, and i'm also the sole ML engineer. i also dive into Go projects about correctness: what happens when a process dies halfway through a write, or when a stream has to pass through a proxy without being buffered. i graduated from Netaji Subhas University of Technology (NSUT, erstwhile NSIT) in 2026 and live in Delhi.
 
 #### what i do at Xpurto
@@ -27,7 +29,3 @@ most of my code gets written by Claude Code now, so the job is making sure it's 
 #### tools
 
 Go, Python, TypeScript, C++, PyTorch, YOLO, TensorRT, OpenCV, FastAPI, Next.js, MongoDB, Postgres, Redis, Kubernetes, ArgoCD, Docker, Prometheus
-
-#### get in touch
-
-[email](mailto:tanxena26@gmail.com) / [resume](https://tanxena.in/resume) / [linkedin](https://www.linkedin.com/in/tanxena) / [github](https://github.com/tanxena)
